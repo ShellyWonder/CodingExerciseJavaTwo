@@ -5,12 +5,6 @@ import java.util.List;
 
 public class ExerciseTwoApp {
 
-	@Override
-	public String toString() {
-		return "ExerciseTwoApp [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
-				+ super.toString() + "]";
-	}
-
 	public static void main(String[] args) {
 		
 		//In the main method, create an ArrayList of Book objects. 
